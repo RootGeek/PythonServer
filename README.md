@@ -4,19 +4,19 @@ Dies ist ein Python-Code, der eine GUI (grafische Benutzeroberfläche) für eine
 
 ## Funktionen des Codes:
 
-### `start_webserver()`:
+## `start_webserver()`:
 Diese Funktion wird aufgerufen, wenn der Benutzer den "Webserver starten" Button klickt. Sie nimmt die IP-Adresse, den Port und das Verzeichnis als Eingabe vom Benutzer entgegen. Dann startet sie einen einfachen Python-HTTP-Server mit der gegebenen IP-Adresse und dem Port, um Dateien aus dem angegebenen Verzeichnis zu hosten. Die URL des gestarteten Webservers wird in einem Label angezeigt.
 
-### `stop_webserver()`:
+## `stop_webserver()`:
 Diese Funktion wird aufgerufen, wenn der Benutzer den "Webserver stoppen" Button klickt. Sie stoppt den zuvor gestarteten Webserver-Prozess.
 
-### `browse_directory()`:
+## `browse_directory()`:
 Wenn der Benutzer auf den "Durchsuchen" Button klickt, wird ein Dateidialog angezeigt, mit dem der Benutzer das Verzeichnis auswählen kann, das für den Webserver verwendet werden soll.
 
-### `copy_url_to_clipboard()`:
+## `copy_url_to_clipboard()`:
 Diese Funktion wird aufgerufen, wenn der Benutzer den "URL kopieren" Button klickt. Sie kopiert die URL des gestarteten Webservers in die Zwischenablage des Systems.
 
-### `open_in_browser()`:
+## `open_in_browser()`:
 Wenn der Benutzer den "Website öffnen" Button klickt, wird die zuvor gestartete Website im Standard-Webbrowser des Systems geöffnet.
 
 ## GUI-Beschreibung:
