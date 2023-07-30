@@ -61,4 +61,5 @@ Die GUI ist in Tkinter, dem Standard-Paket für GUI-Programmierung in Python, er
 
 Hinweis: Wenn beim Starten des Webservers ein Fehler auftritt, wird die entsprechende Fehlermeldung im Status-Label angezeigt.
 
-![GUI-Screenshot](https://drive.google.com/file/d/1ezu495gTr5BOtXxCLOnEAko_uJN4cwIz/view?usp=sharing)
+![Server scheint Down zu sein](https://drive.google.com/uc?export=view&id=1ezu495gTr5BOtXxCLOnEAko_uJN4cwIz)
+
